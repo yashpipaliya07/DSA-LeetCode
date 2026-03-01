@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0205-isomorphic-strings) |
@@ -244,4 +246,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
