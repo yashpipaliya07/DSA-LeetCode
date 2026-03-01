@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Hash Table
 |  |
 | ------- |
@@ -133,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0217-contains-duplicate) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
