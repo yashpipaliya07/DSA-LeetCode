@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0682-baseball-game) |
 | [1518-water-bottles](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/1518-water-bottles) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0268-missing-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1518-water-bottles](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/1518-water-bottles) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0258-add-digits) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
