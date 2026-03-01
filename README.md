@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0205-isomorphic-strings) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 ## Simulation
 |  |
@@ -105,4 +106,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0682-baseball-game) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
