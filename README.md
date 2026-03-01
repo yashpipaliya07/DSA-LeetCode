@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0682-baseball-game](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0682-baseball-game) |
 ## Dynamic Programming
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0070-climbing-stairs) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
