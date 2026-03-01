@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2043-simple-bank-system](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2043-simple-bank-system) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1518-water-bottles](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/1518-water-bottles) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2043-simple-bank-system](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2043-simple-bank-system) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [2043-simple-bank-system](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2043-simple-bank-system) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Bit Manipulation
 |  |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0155-min-stack) |
 | [0622-design-circular-queue](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0622-design-circular-queue) |
+| [2043-simple-bank-system](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2043-simple-bank-system) |
 ## Queue
 |  |
 | ------- |
