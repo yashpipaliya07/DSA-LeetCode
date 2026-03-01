@@ -26,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0027-remove-element) |
+## String
+|  |
+| ------- |
+| [3612-process-string-with-special-operations-i](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/3612-process-string-with-special-operations-i) |
+## Simulation
+|  |
+| ------- |
+| [3612-process-string-with-special-operations-i](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 <!---LeetCode Topics End-->
