@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0704-binary-search) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0074-search-a-2d-matrix) |
 ## Greedy
 |  |
 | ------- |
