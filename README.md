@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [3697-compute-decimal-representation](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/3697-compute-decimal-representation) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1518-water-bottles](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/1518-water-bottles) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3697-compute-decimal-representation](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/3697-compute-decimal-representation) |
 ## Hash Table
 |  |
 | ------- |
