@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0875-koko-eating-bananas) |
+| [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
