@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0075-sort-colors) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0682-baseball-game) |
 | [1518-water-bottles](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/1518-water-bottles) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0073-set-matrix-zeroes) |
 ## Greedy
 |  |
