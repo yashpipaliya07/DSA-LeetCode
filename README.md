@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0622-design-circular-queue) |
 | [0682-baseball-game](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0704-binary-search) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0724-find-pivot-index) |
 ## Matrix
 |  |
