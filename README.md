@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0682-baseball-game](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0682-baseball-game) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [0189-rotate-array](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Hash Table
