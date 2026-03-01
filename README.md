@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0058-length-of-last-word) |
@@ -54,12 +55,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0069-sqrtx) |
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
