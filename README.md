@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0344-reverse-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/3612-process-string-with-special-operations-i) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0242-valid-anagram) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0242-valid-anagram) |
 ## Number Theory
 |  |
 | ------- |
