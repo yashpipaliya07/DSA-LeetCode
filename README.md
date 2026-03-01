@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0136-single-number) |
 | [0682-baseball-game](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0682-baseball-game) |
 ## Dynamic Programming
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0136-single-number) |
 ## Linked List
 |  |
 | ------- |
