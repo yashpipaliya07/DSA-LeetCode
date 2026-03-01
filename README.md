@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 ## Simulation
 |  |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 ## String Matching
 |  |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1518-water-bottles](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/1518-water-bottles) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3697-compute-decimal-representation](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/3697-compute-decimal-representation) |
 ## Hash Table
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Heap (Priority Queue)
 |  |
@@ -298,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Prefix Sum
 |  |
 | ------- |
