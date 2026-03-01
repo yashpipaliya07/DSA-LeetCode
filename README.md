@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3697-compute-decimal-representation](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/3697-compute-decimal-representation) |
 ## Dynamic Programming
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0704-binary-search) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Two Pointers
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## String
 |  |
 | ------- |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Number Theory
 |  |
 | ------- |
