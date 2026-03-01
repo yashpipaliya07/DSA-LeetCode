@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1518-water-bottles](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/1518-water-bottles) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3697-compute-decimal-representation](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/3697-compute-decimal-representation) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0268-missing-number) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Linked List
 |  |
 | ------- |
