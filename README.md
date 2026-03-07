@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search
 |  |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0342-power-of-four) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/3370-smallest-number-with-all-set-bits) |
