@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Two Pointers
 |  |
