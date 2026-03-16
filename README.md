@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0410-split-array-largest-sum](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0268-missing-number) |
+| [0410-split-array-largest-sum](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0704-binary-search](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0704-binary-search) |
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0724-find-pivot-index) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -396,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0011-container-with-most-water) |
+| [0410-split-array-largest-sum](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0680-valid-palindrome-ii) |
 ## Monotonic Stack
 |  |
