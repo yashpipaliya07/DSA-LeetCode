@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1710-maximum-units-on-a-truck](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2043-simple-bank-system](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2043-simple-bank-system) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0561-array-partition) |
 | [0977-squares-of-a-sorted-array](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1710-maximum-units-on-a-truck](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Number Theory
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0561-array-partition](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [1710-maximum-units-on-a-truck](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 ## Monotonic Stack
 |  |
 | ------- |
