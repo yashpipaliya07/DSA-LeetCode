@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0372-super-pow](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0372-super-pow) |
 ## Binary Search
 |  |
 | ------- |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0342-power-of-four) |
+| [0372-super-pow](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0372-super-pow) |
 | [0509-fibonacci-number](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0509-fibonacci-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
