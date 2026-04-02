@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2008-maximum-earnings-from-taxi](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2008-maximum-earnings-from-taxi) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2043-simple-bank-system](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2043-simple-bank-system) |
+| [2049-count-nodes-with-the-highest-score](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -455,15 +456,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [2049-count-nodes-with-the-highest-score](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2049-count-nodes-with-the-highest-score) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [2049-count-nodes-with-the-highest-score](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2049-count-nodes-with-the-highest-score) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [2049-count-nodes-with-the-highest-score](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2049-count-nodes-with-the-highest-score) |
 ## Binary Search Tree
 |  |
 | ------- |
