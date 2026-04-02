@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -459,12 +460,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Binary Tree
@@ -472,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2049-count-nodes-with-the-highest-score) |
 ## Binary Search Tree
 |  |
