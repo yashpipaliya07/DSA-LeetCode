@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1710-maximum-units-on-a-truck](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2008-maximum-earnings-from-taxi](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2008-maximum-earnings-from-taxi) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2043-simple-bank-system](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2043-simple-bank-system) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0518-coin-change-ii) |
+| [2008-maximum-earnings-from-taxi](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2008-maximum-earnings-from-taxi) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/1539-kth-missing-positive-number) |
+| [2008-maximum-earnings-from-taxi](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2008-maximum-earnings-from-taxi) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2594-minimum-time-to-repair-cars](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2594-minimum-time-to-repair-cars) |
 ## Two Pointers
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [2008-maximum-earnings-from-taxi](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2008-maximum-earnings-from-taxi) |
 | [2043-simple-bank-system](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2043-simple-bank-system) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Bit Manipulation
@@ -351,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1710-maximum-units-on-a-truck](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/1710-maximum-units-on-a-truck) |
+| [2008-maximum-earnings-from-taxi](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2008-maximum-earnings-from-taxi) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Number Theory
