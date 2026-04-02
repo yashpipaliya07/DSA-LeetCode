@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0518-coin-change-ii) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [2008-maximum-earnings-from-taxi](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2008-maximum-earnings-from-taxi) |
 ## Divide and Conquer
 |  |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2211-count-collisions-on-a-road](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [2008-maximum-earnings-from-taxi](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2008-maximum-earnings-from-taxi) |
 | [2043-simple-bank-system](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2043-simple-bank-system) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -288,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0342-power-of-four) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Linked List
 |  |
@@ -390,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/1255-maximum-score-words-formed-by-letters) |
 ## Quickselect
 |  |
 | ------- |
@@ -455,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0040-combination-sum-ii) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/1255-maximum-score-words-formed-by-letters) |
 ## Tree
 |  |
 | ------- |
@@ -505,4 +512,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2368-reachable-nodes-with-restrictions](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2368-reachable-nodes-with-restrictions) |
+## Bitmask
+|  |
+| ------- |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/1255-maximum-score-words-formed-by-letters) |
 <!---LeetCode Topics End-->
