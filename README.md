@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-find-triangular-sum-of-an-array](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2402-meeting-rooms-iii](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2594-minimum-time-to-repair-cars](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2594-minimum-time-to-repair-cars) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3697-compute-decimal-representation](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/3697-compute-decimal-representation) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2211-count-collisions-on-a-road](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2402-meeting-rooms-iii](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 ## String Matching
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2008-maximum-earnings-from-taxi](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2008-maximum-earnings-from-taxi) |
 | [2043-simple-bank-system](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2043-simple-bank-system) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2402-meeting-rooms-iii](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2402-meeting-rooms-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2008-maximum-earnings-from-taxi](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2008-maximum-earnings-from-taxi) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2402-meeting-rooms-iii](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2402-meeting-rooms-iii) |
 ## Number Theory
 |  |
 | ------- |
@@ -370,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [2402-meeting-rooms-iii](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2402-meeting-rooms-iii) |
 ## Bucket Sort
 |  |
 | ------- |
