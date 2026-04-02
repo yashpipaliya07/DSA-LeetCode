@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-find-triangular-sum-of-an-array](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2402-meeting-rooms-iii](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2594-minimum-time-to-repair-cars](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2594-minimum-time-to-repair-cars) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2008-maximum-earnings-from-taxi](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2008-maximum-earnings-from-taxi) |
 | [2043-simple-bank-system](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2043-simple-bank-system) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2402-meeting-rooms-iii](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2402-meeting-rooms-iii) |
 ## Bit Manipulation
 |  |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Backtracking
 |  |
 | ------- |
@@ -457,11 +460,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2049-count-nodes-with-the-highest-score) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2049-count-nodes-with-the-highest-score) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Binary Tree
 |  |
 | ------- |
@@ -488,4 +493,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0493-reverse-pairs) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2368-reachable-nodes-with-restrictions](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2368-reachable-nodes-with-restrictions) |
+## Graph Theory
+|  |
+| ------- |
+| [2368-reachable-nodes-with-restrictions](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2368-reachable-nodes-with-restrictions) |
 <!---LeetCode Topics End-->
