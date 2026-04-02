@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0493-reverse-pairs) |
 | [0518-coin-change-ii](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0372-super-pow](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0372-super-pow) |
+| [0493-reverse-pairs](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0493-reverse-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0493-reverse-pairs](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0704-binary-search](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0704-binary-search) |
@@ -427,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0493-reverse-pairs) |
 ## Union-Find
 |  |
 | ------- |
@@ -458,4 +462,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0561-array-partition) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
