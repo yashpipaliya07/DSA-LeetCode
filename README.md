@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [0997-find-the-town-judge](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0997-find-the-town-judge) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0997-find-the-town-judge](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0997-find-the-town-judge) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [2008-maximum-earnings-from-taxi](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2008-maximum-earnings-from-taxi) |
 | [2043-simple-bank-system](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2043-simple-bank-system) |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0997-find-the-town-judge](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0997-find-the-town-judge) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Bitmask
 |  |
