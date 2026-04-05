@@ -457,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0785-is-graph-bipartite) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Backtracking
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0207-course-schedule](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0207-course-schedule) |
+| [0547-number-of-provinces](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0785-is-graph-bipartite) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2368-reachable-nodes-with-restrictions) |
@@ -513,12 +515,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0207-course-schedule) |
+| [0547-number-of-provinces](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0785-is-graph-bipartite) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0207-course-schedule) |
+| [0547-number-of-provinces](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0997-find-the-town-judge](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0997-find-the-town-judge) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/2368-reachable-nodes-with-restrictions) |
