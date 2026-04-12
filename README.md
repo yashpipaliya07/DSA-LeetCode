@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0241-different-ways-to-add-parentheses](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0300-longest-increasing-subsequence](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0509-fibonacci-number) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0205-isomorphic-strings) |
+| [0241-different-ways-to-add-parentheses](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0189-rotate-array) |
+| [0241-different-ways-to-add-parentheses](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0342-power-of-four) |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0342-power-of-four](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0509-fibonacci-number) |
 ## Stack
@@ -350,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0509-fibonacci-number](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0509-fibonacci-number) |
 ## Sorting
 |  |
