@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0283-move-zeroes) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0191-number-of-1-bits) |
+| [0240-search-a-2d-matrix-ii](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0372-super-pow](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0372-super-pow) |
 | [0493-reverse-pairs](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0493-reverse-pairs) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0240-search-a-2d-matrix-ii](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -443,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/yashpipaliya07/DSA-LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Greedy
 |  |
